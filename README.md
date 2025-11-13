@@ -12,4 +12,4 @@
 
 ## Link Figma Kelompok 4: https://www.figma.com/design/qXFF0snHRY51LgrUokYjug/Untitled?node-id=0-1&t=pNr7Y4uZROYobJe1-1 "
 
-## Link Penting & Plan Kelompok 4:https://docs.google.com/spreadsheets/d/1oUI7nF0D5Fz_AE3YUSlkbNKMCmT4H-Zz/edit?gid=94280854#gid=94280854
+## Link Penting & Plan Kelompok 4: https://docs.google.com/spreadsheets/d/1oUI7nF0D5Fz_AE3YUSlkbNKMCmT4H-Zz/edit?gid=94280854#gid=94280854
