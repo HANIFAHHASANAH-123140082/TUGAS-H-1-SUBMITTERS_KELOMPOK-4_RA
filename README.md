@@ -10,7 +10,9 @@
 
 ## Link Gdocs Proposal Tugas Besar Desain Interaksi (UTS) :  https://docs.google.com/document/d/1U8tKWc7slJFlWiX2XauXeA8Q1ernGj46JipFxHynsPc/edit?usp=sharing
 
-## Link Figma Kelompok 4: https://www.figma.com/design/qXFF0snHRY51LgrUokYjug/Untitled?node-id=0-1&t=pNr7Y4uZROYobJe1-1 
+## Link Figma Prototype Kelompok 4: https://www.figma.com/design/qXFF0snHRY51LgrUokYjug/Untitled?node-id=0-1&t=pNr7Y4uZROYobJe1-1 
+
+## Link User Persona: https://www.figma.com/design/m8wfMfgCNkjGAIAodQccqo/Desain-Interaksi?node-id=0-1&t=Fzvhv8v9FFHMCFqv-1
 
 ## Link Penting & Plan Kelompok 4: https://docs.google.com/spreadsheets/d/1oUI7nF0D5Fz_AE3YUSlkbNKMCmT4H-Zz/edit?gid=94280854#gid=94280854
 
