@@ -18,3 +18,4 @@
 
 ## Link PPT Kelompok 4 : https://www.canva.com/design/DAG4k6MyE8k/PjYjv7vJGeUUa7LZiUDBgg/edit?utm_content=DAG4k6MyE8k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+## Link Proposal Akhir Kelompok 4 : https://docs.google.com/document/d/1YdKi9fKCtSfVQbfAeNbzCOIIKr_beeBlMEdGiDBQa5g/edit?usp=sharing
