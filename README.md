@@ -22,4 +22,6 @@
 
 ## Link PPT Laporan Progress Kelompok 4 : https://www.canva.com/design/DAG4k6MyE8k/PjYjv7vJGeUUa7LZiUDBgg/edit?utm_content=DAG4k6MyE8k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+## Link Video Final :  https://drive.google.com/file/d/1xfUHI7WcjcFQdweAfCZnRdV-Od3UU2Oz/view?usp=drivesdk
+
 
